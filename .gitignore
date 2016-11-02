@@ -1,0 +1,5 @@
+foo.txt
+*.log
+#Libraries
+/lib/*
+!/lib/my.jar
